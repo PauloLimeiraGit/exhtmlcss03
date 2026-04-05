@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: rgb(43, 43, 43);
+}
+.container {
+  width: 70%;
+  margin: auto;
+}
+
+header {
+  color: aliceblue;
+  padding: 5px;
+  font-size: 12px;
+  background-color: rgb(54, 173, 228);
+  text-align: center;
+}
